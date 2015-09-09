@@ -1,11 +1,12 @@
 '''
 Created on May 12, 2015
 
-@author: Isaac
+@author: Isaac...
 '''
 import random
 import time
 import sys
+
 
 class Tac:
     
